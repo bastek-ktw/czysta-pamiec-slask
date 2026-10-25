@@ -1,5 +1,5 @@
 import { getServices, getSettings } from "@/lib/db";
-import { BookingWizard } from "@/components/BookingWizard";
+import { ExpressBookingFlow } from "@/components/ExpressBookingFlow";
 
 export const dynamic = "force-dynamic";
 
@@ -9,5 +9,5 @@ export default async function HomePage() {
     getSettings()
   ]);
 
-  return <BookingWizard initialServices={services} settings={settings} />;
+  return <ExpressBookingFlow initialServices={services} settings={settings} />;
 }
