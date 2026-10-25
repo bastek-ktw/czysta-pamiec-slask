@@ -1,0 +1,222 @@
+[
+  {
+    "id": "chorzow-cmentarna",
+    "city": "Chorzów",
+    "name": "Cmentarz Parafii św. Barbary (Stary)",
+    "address": "ul. Cmentarna 1, 41-500 Chorzów",
+    "lat": 50.2974,
+    "lng": 18.9482,
+    "grobonetUrl": "https://chorzow.grobonet.com",
+    "googleMapsUrl": "https://maps.google.com/?q=50.2974,18.9482"
+  },
+  {
+    "id": "chorzow-graniczna",
+    "city": "Chorzów",
+    "name": "Cmentarz Komunalny w Chorzowie Batorym",
+    "address": "ul. Graniczna 77, 41-506 Chorzów",
+    "lat": 50.2731,
+    "lng": 18.9567,
+    "grobonetUrl": "https://chorzow.grobonet.com",
+    "googleMapsUrl": "https://maps.google.com/?q=50.2731,18.9567"
+  },
+  {
+    "id": "chorzow-drzymaly",
+    "city": "Chorzów",
+    "name": "Cmentarz Parafii św. Jadwigi Śląskiej",
+    "address": "ul. Drzymały, 41-500 Chorzów",
+    "lat": 50.3012,
+    "lng": 18.9541,
+    "grobonetUrl": "https://chorzow.grobonet.com",
+    "googleMapsUrl": "https://maps.google.com/?q=50.3012,18.9541"
+  },
+  {
+    "id": "chorzow-kaliny",
+    "city": "Chorzów",
+    "name": "Cmentarz Parafialny Wniebowzięcia NMP",
+    "address": "ul. Kaliny, 41-506 Chorzów Batory",
+    "lat": 50.2798,
+    "lng": 18.9612,
+    "grobonetUrl": "https://chorzow.grobonet.com",
+    "googleMapsUrl": "https://maps.google.com/?q=50.2798,18.9612"
+  },
+  {
+    "id": "katowice-panewniki",
+    "city": "Katowice",
+    "name": "Cmentarz Kalwaryjski w Panewnikach",
+    "address": "ul. Panewnicka, 40-760 Katowice",
+    "lat": 50.2269,
+    "lng": 18.9575,
+    "grobonetUrl": "https://grobonet.com",
+    "googleMapsUrl": "https://maps.google.com/?q=50.2269,18.9575"
+  },
+  {
+    "id": "katowice-sienkiewicza",
+    "city": "Katowice",
+    "name": "Cmentarz Parafialny Niepokalanego Poczęcia NMP",
+    "address": "ul. Sienkiewicza / Francuska, 40-031 Katowice",
+    "lat": 50.2524,
+    "lng": 19.0271,
+    "grobonetUrl": "https://grobonet.com",
+    "googleMapsUrl": "https://maps.google.com/?q=50.2524,19.0271"
+  },
+  {
+    "id": "katowice-murckowska",
+    "city": "Katowice",
+    "name": "Cmentarz Komunalny w Katowicach",
+    "address": "ul. Murckowska 9, 40-265 Katowice",
+    "lat": 50.2458,
+    "lng": 19.0543,
+    "grobonetUrl": "https://grobonet.com",
+    "googleMapsUrl": "https://maps.google.com/?q=50.2458,19.0543"
+  },
+  {
+    "id": "katowice-bogucice",
+    "city": "Katowice",
+    "name": "Cmentarz Parafii św. Szczepana w Bogucicach",
+    "address": "ul. Leopolda / Wróblewskiego, 40-213 Katowice",
+    "lat": 50.2691,
+    "lng": 19.0435,
+    "grobonetUrl": "https://grobonet.com",
+    "googleMapsUrl": "https://maps.google.com/?q=50.2691,19.0435"
+  },
+  {
+    "id": "katowice-jozefowiec",
+    "city": "Katowice",
+    "name": "Cmentarz Parafii św. Józefa Robotnika",
+    "address": "ul. Józefowska, 40-145 Katowice",
+    "lat": 50.2785,
+    "lng": 19.0092,
+    "grobonetUrl": "https://grobonet.com",
+    "googleMapsUrl": "https://maps.google.com/?q=50.2785,19.0092"
+  },
+  {
+    "id": "siemianowice-michalkowice",
+    "city": "Siemianowice Śląskie",
+    "name": "Cmentarz Parafialny św. Michała Archanioła",
+    "address": "ul. Oświęcimska, 41-103 Siemianowice Śląskie (Michałkowice)",
+    "lat": 50.3156,
+    "lng": 18.9958,
+    "grobonetUrl": "https://siemianowice.grobonet.com/wyszukiwarka",
+    "googleMapsUrl": "https://maps.google.com/?q=50.3156,18.9958"
+  },
+  {
+    "id": "siemianowice-cmentarna",
+    "city": "Siemianowice Śląskie",
+    "name": "Cmentarz Parafii Krzyża Świętego",
+    "address": "ul. Cmentarna, 41-100 Siemianowice Śląskie",
+    "lat": 50.3061,
+    "lng": 19.0232,
+    "grobonetUrl": "https://siemianowice.grobonet.com/wyszukiwarka",
+    "googleMapsUrl": "https://maps.google.com/?q=50.3061,19.0232"
+  },
+  {
+    "id": "siemianowice-przelajka",
+    "city": "Siemianowice Śląskie",
+    "name": "Cmentarz Parafii NMP Częstochowskiej w Przełajce",
+    "address": "ul. Wiejska, 41-104 Siemianowice Śląskie (Przełajka)",
+    "lat": 50.3342,
+    "lng": 19.0089,
+    "grobonetUrl": "https://przelajka.grobonet.com",
+    "googleMapsUrl": "https://maps.google.com/?q=50.3342,19.0089"
+  },
+  {
+    "id": "bytom-kraszewskiego",
+    "city": "Bytom",
+    "name": "Cmentarz Mater Dolorosa I i II",
+    "address": "ul. Kraszewskiego 22 / Piekarska, 41-902 Bytom",
+    "lat": 50.3547,
+    "lng": 18.9221,
+    "grobonetUrl": "https://grobonet.com",
+    "googleMapsUrl": "https://maps.google.com/?q=50.3547,18.9221"
+  },
+  {
+    "id": "bytom-kwiatowa",
+    "city": "Bytom",
+    "name": "Cmentarz Komunalny w Bytomiu",
+    "address": "ul. Kwiatowa 1, 41-907 Bytom",
+    "lat": 50.3668,
+    "lng": 18.9145,
+    "grobonetUrl": "https://grobonet.com",
+    "googleMapsUrl": "https://maps.google.com/?q=50.3668,18.9145"
+  },
+  {
+    "id": "bytom-stroszek",
+    "city": "Bytom",
+    "name": "Cmentarz Parafii św. Józefa Robotnika w Stroszku",
+    "address": "ul. Strzelców Bytomskich, 41-933 Bytom",
+    "lat": 50.3889,
+    "lng": 18.8924,
+    "grobonetUrl": "https://grobonet.com",
+    "googleMapsUrl": "https://maps.google.com/?q=50.3889,18.8924"
+  },
+  {
+    "id": "swietochlowice-cmentarna",
+    "city": "Świętochłowice",
+    "name": "Cmentarz Parafii św. Piotra i Pawła",
+    "address": "ul. Cmentarna 10, 41-600 Świętochłowice",
+    "lat": 50.2925,
+    "lng": 18.9208,
+    "grobonetUrl": "https://grobonet.com",
+    "googleMapsUrl": "https://maps.google.com/?q=50.2925,18.9208"
+  },
+  {
+    "id": "swietochlowice-chropaczow",
+    "city": "Świętochłowice",
+    "name": "Cmentarz Parafii Matki Bożej Różańcowej w Chropaczowie",
+    "address": "ul. Kościelna, 41-608 Świętochłowice",
+    "lat": 50.3114,
+    "lng": 18.9142,
+    "grobonetUrl": "https://grobonet.com",
+    "googleMapsUrl": "https://maps.google.com/?q=50.3114,18.9142"
+  },
+  {
+    "id": "swietochlowice-lipiny",
+    "city": "Świętochłowice",
+    "name": "Cmentarz Parafii św. Augustyna w Lipinach",
+    "address": "ul. Chorzowska, 41-605 Świętochłowice",
+    "lat": 50.3039,
+    "lng": 18.8973,
+    "grobonetUrl": "https://grobonet.com",
+    "googleMapsUrl": "https://maps.google.com/?q=50.3039,18.8973"
+  },
+  {
+    "id": "ruda-halemba",
+    "city": "Ruda Śląska",
+    "name": "Cmentarz Parafii Matki Boskiej Różańcowej w Halembie",
+    "address": "ul. Pakuły, 41-706 Ruda Śląska",
+    "lat": 50.2312,
+    "lng": 18.8576,
+    "grobonetUrl": "https://grobonet.com",
+    "googleMapsUrl": "https://maps.google.com/?q=50.2312,18.8576"
+  },
+  {
+    "id": "ruda-nowy-bytom",
+    "city": "Ruda Śląska",
+    "name": "Cmentarz Komunalny w Nowym Bytomiu",
+    "address": "ul. Niedurnego, 41-709 Ruda Śląska",
+    "lat": 50.2794,
+    "lng": 18.8711,
+    "grobonetUrl": "https://grobonet.com",
+    "googleMapsUrl": "https://maps.google.com/?q=50.2794,18.8711"
+  },
+  {
+    "id": "ruda-godula",
+    "city": "Ruda Śląska",
+    "name": "Cmentarz Parafii ścięcia św. Jana Chrzciciela w Goduli",
+    "address": "ul. Goduli, 41-703 Ruda Śląska",
+    "lat": 50.3129,
+    "lng": 18.8791,
+    "grobonetUrl": "https://grobonet.com",
+    "googleMapsUrl": "https://maps.google.com/?q=50.3129,18.8791"
+  },
+  {
+    "id": "ruda-kochlowice",
+    "city": "Ruda Śląska",
+    "name": "Cmentarz Parafii Trójcy Przenajświętszej w Kochłowicach",
+    "address": "ul. Piłsudskiego, 41-707 Ruda Śląska",
+    "lat": 50.2483,
+    "lng": 18.9042,
+    "grobonetUrl": "https://grobonet.com",
+    "googleMapsUrl": "https://maps.google.com/?q=50.2483,18.9042"
+  }
+]
