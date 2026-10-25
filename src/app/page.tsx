@@ -1,5 +1,5 @@
 import { getServices, getSettings } from "@/lib/db";
-import { ExpressBookingFlow } from "@/components/ExpressBookingFlow";
+import { LuxuryMemorialExperience } from "@/components/LuxuryMemorialExperience";
 
 export const dynamic = "force-dynamic";
 
@@ -9,5 +9,5 @@ export default async function HomePage() {
     getSettings()
   ]);
 
-  return <ExpressBookingFlow initialServices={services} settings={settings} />;
+  return <LuxuryMemorialExperience initialServices={services} settings={settings} />;
 }
